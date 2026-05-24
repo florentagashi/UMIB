@@ -1,0 +1,1 @@
+Ky projekt paraqet ridizajnimin UX/UI të website-it të Universitetit “Isa Boletini” (umib.net). Qëllimi është përmirësimi i përdorshmërisë, navigimit dhe strukturës së informacionit duke krijuar një ndërfaqe moderne, të thjeshtë dhe më të qartë për studentët dhe stafin.
